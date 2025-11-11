@@ -76,7 +76,7 @@ This **Python project** analyzes **7,043 telecom customer records** to uncover *
 ## 👨‍💻 Author
 **Gowthamshree**  
 🔗 [GitHub Profile](https://github.com/Gowthamshree2605)  
-💼 [LinkedIn](#) *(Update with your link)*  
+💼 [LinkedIn](https://www.linkedin.com/in/gowtham-m-0646b3287/)
 
 ---
 
